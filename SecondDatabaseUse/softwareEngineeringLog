@@ -1,0 +1,14 @@
+Henrique Medeiros dos Reis
+
+December/7/2020
+	Started final exam project, following the instructions that were given in the handout.
+	I was able to make it compile for the first time with the mysql conections that were needed.
+	For today I will work with the options number 1, 2, 4 and 5. Which are similar to the last project, so it might be easier.
+	
+December/8/2020
+	I only worked in option 3. It seems that I have some bugs related to weather I should allow this transation or not.
+	Fixed the bug about when it should allow or not, it turns out I was using res1 instead of res in one of the if statments.
+	I still need to handle situations where there is a recipe that none of the ingredients are in the Inventory table, making both 0 and sending the wrong message to the screen and commiting the transaction
+
+December/9/2020	
+	I was able to fix that  bug with the transactions.
