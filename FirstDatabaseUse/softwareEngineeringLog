@@ -1,0 +1,17 @@
+Henrique Medeiros dos Reis
+
+November/22/2020
+	Started project 2, following the instructions that were given in the handout.
+	I was able to make it compile for the first time with the mysql conections that were needed.
+	For today I will look into project 1 and try to recicle some of the code, since both are very similar.
+	
+November/23/2020
+	I worked in the addition and the list the results part. I didnt see many bugs and the majority of them were corelated to mysql.
+	I still need to work in how to not add duplicates, handle the delete, and transcript
+
+November/24/2020
+	It looks like I have everything covered, all I need now is to test and make sure everything workds
+	
+November/25/2020 
+	During testing I had some output bugs when trying to output, sometimes it is printing semesters that have not had any courses taken during them. 
+	I was able to fix this bug, only an if statment did it.
